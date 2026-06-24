@@ -1,0 +1,38 @@
+﻿# Build output
+build/
+dist/
+bin/
+out/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans private files
+nbproject/private/
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+sources.txt
+strip.ps1
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database/local config
+*.db
+*.sqlite
+*.sqlite3
+db.properties
