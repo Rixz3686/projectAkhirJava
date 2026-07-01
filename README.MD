@@ -37,6 +37,8 @@ Aplikasi memiliki fitur autentikasi sederhana. Saat pertama kali dijalankan, sis
 3. Pastikan library `flatlaf.jar` dan driver database (opsional) sudah ada di folder `lib/` atau di-build-path.
 4. Build/Compile (atau gunakan Apache Ant).
 5. Jalankan class `com.travel.Main`.
+6. Ubah kredensial db.properties milik anda
+7. Lalu import semua database.sql di phpmyadmin/adminer/ dll
 
 ## 📂 Struktur Direktori
 
